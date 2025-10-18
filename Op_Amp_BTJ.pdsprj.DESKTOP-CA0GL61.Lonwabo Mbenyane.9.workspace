@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activeWindow="0">
+  <PLACEMENT>01d9d0cb0003000000000008000000010000054d000002c700000009000000200000054c000002c60000000000000000055600000009000000200000054c000002c6</PLACEMENT>
+  <WINDOW module="ISIS" mode="00050a06" type="default" index="0"/>
+ </FRAME>
+ <MODULE name="ISIS">
+  <editor gridmode="2" flipped="0" gridminor="254000" snapidx="2" orgmode="0" zoom="-1" gridmajor="2540000" snap="254000" xcursor="0" snaprange="127000" scale="114" metric="0">
+   <centre y="-3053199" x="1069473"/>
+   <origin y="0" x="0"/>
+   <world x1="-8890000" y1="-12700000" x2="8890000" y2="12700000"/>
+  </editor>
+ </MODULE>
+ <MODULE name="VSMDEBUG">
+  <PWI>
+   <POPUP h="200" flags="00000082" w="800" pid="0" y="21" iid="-1" x="10">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP h="200" flags="000000b2" w="350" pid="1" y="41" iid="-1" x="30">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP h="200" flags="000000a2" w="800" pid="2" y="61" iid="-1" x="50">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP h="360" flags="00000022" w="720" pid="1" y="81" iid="11" x="70">
+    <PROPERTIES/>
+   </POPUP>
+  </PWI>
+ </MODULE>
+ <MODULE name="ARES">
+  <editor gridmode="2" flipped="0" gridminor="250000" snapidx="3" orgmode="0" zoom="0" gridmajor="1000000" snap="250000" xcursor="0" snaprange="125000" scale="406" metric="1">
+   <centre y="0" x="7000000"/>
+   <origin y="0" x="0"/>
+   <world x1="-15240000" y1="-12700000" x2="15240000" y2="12700000"/>
+  </editor>
+ </MODULE>
+</WORKSPACE>
