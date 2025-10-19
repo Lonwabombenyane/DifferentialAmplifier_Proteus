@@ -1,0 +1,46 @@
+# ============================
+# Proteus Project Git Ignore
+# ============================
+
+# Project backup and autosave files
+*.bak
+*.tmp
+*.autosave
+*.~*
+
+# Simulation output files
+*.hex
+*.cof
+*.elf
+*.map
+*.log
+*.err
+*.lst
+*.dat
+
+# Layout and temporary data
+*.cfg
+*.ini
+*.db
+*.ldb
+
+# Intermediate compilation folders (if using MCUs)
+Simulation/
+Output/
+Build/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup archives
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Optional: ignore Proteus schematic backups
+*.pdsbak
+
+# End of file
